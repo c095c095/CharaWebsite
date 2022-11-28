@@ -6,6 +6,9 @@
 ## ดาวน์โหลด
 [Download](https://drive.google.com/file/d/1kEnamEq8IxiHCbZhsak9anSNouGXsp7n/view?usp=sharing)
 
+## ตัวอย่าง
+[Demo](https://charawebsite.000webhostapp.com/)
+
 ## โปรแกรมที่ต้องการ
 
 - XAMPP
